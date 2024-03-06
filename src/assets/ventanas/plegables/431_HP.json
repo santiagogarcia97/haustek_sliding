@@ -1,0 +1,1437 @@
+{
+    "sm": [
+        {
+            "uid": 1,
+            "type": "Frame",
+            "ps": {
+                "f": 40,
+                "fm": 48,
+                "sa": 95,
+                "usa": 95,
+                "dsa": 95,
+                "il": 95,
+                "sc": 60,
+                "sm": 95,
+                "kw": 200,
+                "b": 18.5,
+                "a": 24,
+                "am": 45,
+                "ahh": 240,
+                "ag": 120,
+                "ahw": 240,
+                "mf": 5,
+                "ms": 5,
+                "gg": 50
+            },
+            "polygon": {
+                "type": "polygon",
+                "spLine": {
+                    "polyId": {
+                        "idx": -1,
+                        "pos": -1
+                    },
+                    "sts": 0,
+                    "eds": 0,
+                    "equalSplit": 0,
+                    "ess": 0,
+                    "ss": false,
+                    "es": false,
+                    "sFd": false,
+                    "eFd": false,
+                    "alignType": 0,
+                    "reinforced": false
+                },
+                "polygon": [
+                    [
+                        {
+                            "ps": {
+                                "x": 920.9949297868388,
+                                "y": 705.1365772079321,
+                                "name": "point"
+                            },
+                            "pe": {
+                                "x": 920.9949297868388,
+                                "y": 2305.136577207932,
+                                "name": "point"
+                            },
+                            "name": "segment"
+                        },
+                        {
+                            "ps": {
+                                "x": 920.9949297868388,
+                                "y": 2305.136577207932,
+                                "name": "point"
+                            },
+                            "pe": {
+                                "x": 2920.994929786839,
+                                "y": 2305.136577207932,
+                                "name": "point"
+                            },
+                            "name": "segment"
+                        },
+                        {
+                            "ps": {
+                                "x": 2920.994929786839,
+                                "y": 2305.136577207932,
+                                "name": "point"
+                            },
+                            "pe": {
+                                "x": 2920.994929786839,
+                                "y": 705.1365772079321,
+                                "name": "point"
+                            },
+                            "name": "segment"
+                        },
+                        {
+                            "ps": {
+                                "x": 2920.994929786839,
+                                "y": 705.1365772079321,
+                                "name": "point"
+                            },
+                            "pe": {
+                                "x": 920.9949297868388,
+                                "y": 705.1365772079321,
+                                "name": "point"
+                            },
+                            "name": "segment"
+                        }
+                    ]
+                ],
+                "virtual": false
+            },
+            "fm": {
+                "ejw": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "ew": [
+                    40,
+                    40,
+                    40,
+                    40
+                ],
+                "vs": [],
+                "ast": []
+            },
+            "mm": {
+                "sp": [],
+                "fls": {
+                    "fls": []
+                },
+                "lpfs": [],
+                "dbs": {
+                    "bars": []
+                },
+                "phs": []
+            },
+            "sm": [
+                {
+                    "type": "FoldSash",
+                    "polyId": {
+                        "idx": -1,
+                        "pos": -1
+                    },
+                    "enabled": true,
+                    "offvec": {
+                        "x": 0,
+                        "y": 0,
+                        "name": "vector"
+                    },
+                    "horizontally": true,
+                    "openToward": "inward",
+                    "leftCount": 3,
+                    "rightCount": 1,
+                    "isDoor": false,
+                    "sashes": [
+                        {
+                            "type": "Sash",
+                            "polyId": {
+                                "idx": -1,
+                                "pos": -1
+                            },
+                            "enabled": true,
+                            "offvec": {
+                                "x": 0,
+                                "y": 0,
+                                "name": "vector"
+                            },
+                            "fm": {
+                                "ejw": [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "ew": [
+                                    95,
+                                    95,
+                                    95,
+                                    95
+                                ],
+                                "vs": [],
+                                "ast": []
+                            },
+                            "mm": {
+                                "sp": [],
+                                "fls": {
+                                    "fls": [
+                                        {
+                                            "type": "Glass",
+                                            "pid": {
+                                                "idx": -1,
+                                                "pos": -1
+                                            },
+                                            "bd": {
+                                                "type": "Bead",
+                                                "fm": {
+                                                    "ejw": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "ew": [
+                                                        18.5,
+                                                        18.5,
+                                                        18.5,
+                                                        18.5
+                                                    ],
+                                                    "vs": [],
+                                                    "ast": []
+                                                }
+                                            },
+                                            "ser": {
+                                                "text": "A1",
+                                                "offvec": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "name": "vector"
+                                                }
+                                            },
+                                            "spet": {
+                                                "sp": "",
+                                                "th": 0,
+                                                "te": [],
+                                                "tm": {
+                                                    "width": 0,
+                                                    "height": 0
+                                                },
+                                                "mw": 0
+                                            },
+                                            "wtf": true,
+                                            "ws": false,
+                                            "hs": []
+                                        }
+                                    ]
+                                },
+                                "lpfs": [],
+                                "dbs": {
+                                    "bars": []
+                                },
+                                "phs": []
+                            },
+                            "hm": {
+                                "openDirection": "left",
+                                "openToward": "inward",
+                                "hingeType": "Hinge",
+                                "hingeCount": 0,
+                                "handle": {
+                                    "hidden": true,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": -1
+                                },
+                                "subHandle": {
+                                    "hidden": true,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": -1
+                                },
+                                "hinges": [],
+                                "slide": "none",
+                                "mlp": true,
+                                "pue": false,
+                                "handleForFold": {
+                                    "hidden": true,
+                                    "hardwareShape": "HandleForFold",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 1135.9949297868388,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 1135.9949297868388,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 0
+                                },
+                                "lock": {
+                                    "hidden": true,
+                                    "hardwareShape": "Lock",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 1586.9949297868386,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 1586.9949297868386,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": false,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 2
+                                }
+                            },
+                            "dm": {
+                                "dims": []
+                            },
+                            "isDoor": false
+                        },
+                        {
+                            "type": "Sash",
+                            "polyId": {
+                                "idx": -1,
+                                "pos": -1
+                            },
+                            "enabled": true,
+                            "offvec": {
+                                "x": 0,
+                                "y": 0,
+                                "name": "vector"
+                            },
+                            "fm": {
+                                "ejw": [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "ew": [
+                                    95,
+                                    95,
+                                    95,
+                                    95
+                                ],
+                                "vs": [],
+                                "ast": []
+                            },
+                            "mm": {
+                                "sp": [],
+                                "fls": {
+                                    "fls": [
+                                        {
+                                            "type": "Glass",
+                                            "pid": {
+                                                "idx": -1,
+                                                "pos": -1
+                                            },
+                                            "bd": {
+                                                "type": "Bead",
+                                                "fm": {
+                                                    "ejw": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "ew": [
+                                                        18.5,
+                                                        18.5,
+                                                        18.5,
+                                                        18.5
+                                                    ],
+                                                    "vs": [],
+                                                    "ast": []
+                                                }
+                                            },
+                                            "ser": {
+                                                "text": "A2",
+                                                "offvec": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "name": "vector"
+                                                }
+                                            },
+                                            "spet": {
+                                                "sp": "",
+                                                "th": 0,
+                                                "te": [],
+                                                "tm": {
+                                                    "width": 0,
+                                                    "height": 0
+                                                },
+                                                "mw": 0
+                                            },
+                                            "wtf": true,
+                                            "ws": false,
+                                            "hs": []
+                                        }
+                                    ]
+                                },
+                                "lpfs": [],
+                                "dbs": {
+                                    "bars": []
+                                },
+                                "phs": []
+                            },
+                            "hm": {
+                                "openDirection": "left",
+                                "openToward": "inward",
+                                "hingeType": "Hinge",
+                                "hingeCount": 0,
+                                "handle": {
+                                    "hidden": true,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": -1
+                                },
+                                "subHandle": {
+                                    "hidden": true,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": -1
+                                },
+                                "hinges": [],
+                                "slide": "none",
+                                "mlp": true,
+                                "pue": false,
+                                "handleForFold": {
+                                    "hidden": true,
+                                    "hardwareShape": "HandleForFold",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 1615.9949297868388,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 1615.9949297868388,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 3
+                                },
+                                "lock": {
+                                    "hidden": true,
+                                    "hardwareShape": "Lock",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 2066.994929786839,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 2066.994929786839,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": false,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 1
+                                }
+                            },
+                            "dm": {
+                                "dims": []
+                            },
+                            "isDoor": false
+                        },
+                        {
+                            "type": "Sash",
+                            "polyId": {
+                                "idx": -1,
+                                "pos": -1
+                            },
+                            "enabled": true,
+                            "offvec": {
+                                "x": 0,
+                                "y": 0,
+                                "name": "vector"
+                            },
+                            "fm": {
+                                "ejw": [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "ew": [
+                                    95,
+                                    95,
+                                    95,
+                                    95
+                                ],
+                                "vs": [],
+                                "ast": []
+                            },
+                            "mm": {
+                                "sp": [],
+                                "fls": {
+                                    "fls": [
+                                        {
+                                            "type": "Glass",
+                                            "pid": {
+                                                "idx": -1,
+                                                "pos": -1
+                                            },
+                                            "bd": {
+                                                "type": "Bead",
+                                                "fm": {
+                                                    "ejw": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "ew": [
+                                                        18.5,
+                                                        18.5,
+                                                        18.5,
+                                                        18.5
+                                                    ],
+                                                    "vs": [],
+                                                    "ast": []
+                                                }
+                                            },
+                                            "ser": {
+                                                "text": "A3",
+                                                "offvec": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "name": "vector"
+                                                }
+                                            },
+                                            "spet": {
+                                                "sp": "",
+                                                "th": 0,
+                                                "te": [],
+                                                "tm": {
+                                                    "width": 0,
+                                                    "height": 0
+                                                },
+                                                "mw": 0
+                                            },
+                                            "wtf": true,
+                                            "ws": false,
+                                            "hs": []
+                                        }
+                                    ]
+                                },
+                                "lpfs": [],
+                                "dbs": {
+                                    "bars": []
+                                },
+                                "phs": []
+                            },
+                            "hm": {
+                                "openDirection": "left",
+                                "openToward": "inward",
+                                "hingeType": "Hinge",
+                                "hingeCount": 0,
+                                "handle": {
+                                    "hidden": false,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 1
+                                },
+                                "subHandle": {
+                                    "hidden": true,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": -1
+                                },
+                                "hinges": [],
+                                "slide": "none",
+                                "mlp": true,
+                                "pue": false,
+                                "handleForFold": {
+                                    "hidden": true,
+                                    "hardwareShape": "HandleForFold",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 2415.994929786839,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 2415.994929786839,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 3
+                                },
+                                "lock": {
+                                    "hidden": true,
+                                    "hardwareShape": "Lock",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 3026.994929786839,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 3026.994929786839,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": false,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 1
+                                }
+                            },
+                            "dm": {
+                                "dims": []
+                            },
+                            "isDoor": false
+                        },
+                        {
+                            "type": "Sash",
+                            "polyId": {
+                                "idx": -1,
+                                "pos": -1
+                            },
+                            "enabled": true,
+                            "offvec": {
+                                "x": 0,
+                                "y": 0,
+                                "name": "vector"
+                            },
+                            "fm": {
+                                "ejw": [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                "ew": [
+                                    95,
+                                    95,
+                                    95,
+                                    95
+                                ],
+                                "vs": [],
+                                "ast": []
+                            },
+                            "mm": {
+                                "sp": [],
+                                "fls": {
+                                    "fls": [
+                                        {
+                                            "type": "Glass",
+                                            "pid": {
+                                                "idx": -1,
+                                                "pos": -1
+                                            },
+                                            "bd": {
+                                                "type": "Bead",
+                                                "fm": {
+                                                    "ejw": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "ew": [
+                                                        18.5,
+                                                        18.5,
+                                                        18.5,
+                                                        18.5
+                                                    ],
+                                                    "vs": [],
+                                                    "ast": []
+                                                }
+                                            },
+                                            "ser": {
+                                                "text": "A4",
+                                                "offvec": {
+                                                    "x": 0,
+                                                    "y": 0,
+                                                    "name": "vector"
+                                                }
+                                            },
+                                            "spet": {
+                                                "sp": "",
+                                                "th": 0,
+                                                "te": [],
+                                                "tm": {
+                                                    "width": 0,
+                                                    "height": 0
+                                                },
+                                                "mw": 0
+                                            },
+                                            "wtf": true,
+                                            "ws": false,
+                                            "hs": []
+                                        }
+                                    ]
+                                },
+                                "lpfs": [],
+                                "dbs": {
+                                    "bars": []
+                                },
+                                "phs": []
+                            },
+                            "hm": {
+                                "openDirection": "right",
+                                "openToward": "inward",
+                                "hingeType": "Hinge",
+                                "hingeCount": 0,
+                                "handle": {
+                                    "hidden": false,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 2623.494929786839,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 2623.494929786839,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": false,
+                                        "offset": {
+                                            "x": 424.92283295820107,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 3
+                                },
+                                "subHandle": {
+                                    "hidden": true,
+                                    "hardwareShape": "Handle",
+                                    "autoOffset": true,
+                                    "percentOffset": 0,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": -1
+                                },
+                                "hinges": [],
+                                "slide": "none",
+                                "mlp": true,
+                                "pue": false,
+                                "handleForFold": {
+                                    "hidden": true,
+                                    "hardwareShape": "HandleForFold",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 2575.994929786839,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 2575.994929786839,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 3
+                                },
+                                "lock": {
+                                    "hidden": true,
+                                    "hardwareShape": "Lock",
+                                    "autoOffset": true,
+                                    "percentOffset": 0.5,
+                                    "useProfileColor": false,
+                                    "dim": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 3026.994929786839,
+                                            "y": 1505.136577207932,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 3026.994929786839,
+                                            "y": 2305.136577207932,
+                                            "name": "point"
+                                        },
+                                        "hidden": false,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "dimToSash": {
+                                        "name": "",
+                                        "from": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "to": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "point"
+                                        },
+                                        "hidden": true,
+                                        "offset": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "name": "vector"
+                                        },
+                                        "position": "right"
+                                    },
+                                    "lockDimToGround": false,
+                                    "lockDimToSash": false,
+                                    "edgeIndex": 1
+                                }
+                            },
+                            "dm": {
+                                "dims": []
+                            },
+                            "isDoor": false
+                        }
+                    ]
+                }
+            ],
+            "cm": {
+                "bn": "#F0540B",
+                "ben": "#F0540B",
+                "g": "rgba(0, 255, 255, 0.6)",
+                "hd": "#D4D1D9"
+            },
+            "tv": {
+                "offset": {
+                    "x": 0,
+                    "y": 0,
+                    "name": "vector"
+                },
+                "hidden": false
+            },
+            "dm": {
+                "dims": [
+                    {
+                        "type": "line",
+                        "eidx": 0,
+                        "midx": -1,
+                        "name": "",
+                        "ds": true,
+                        "ov": {
+                            "x": 0,
+                            "y": 0,
+                            "name": "vector"
+                        },
+                        "at": 0
+                    },
+                    {
+                        "type": "line",
+                        "eidx": 1,
+                        "midx": -1,
+                        "name": "",
+                        "ds": true,
+                        "ov": {
+                            "x": 0,
+                            "y": 0,
+                            "name": "vector"
+                        },
+                        "at": 0
+                    }
+                ]
+            },
+            "edm": [],
+            "lds": false,
+            "ser": {
+                "from": {
+                    "x": 1934.4949297868388,
+                    "y": 645.1365772079321,
+                    "name": "point"
+                },
+                "to": {
+                    "x": 1934.4949297868388,
+                    "y": 645.1365772079321,
+                    "name": "point"
+                },
+                "text": "",
+                "fontSize": 120,
+                "cr": "blue"
+            },
+            "tn": false,
+            "esr": [],
+            "ies": [],
+            "ot": "inward"
+        }
+    ],
+    "wall": [],
+    "cp": [],
+    "note": [],
+    "sbf": [],
+    "scale": 0,
+    "epi": [],
+    "wlc": "#b4f595",
+    "s": {
+        "cjs": 100,
+        "cs": 60
+    }
+}

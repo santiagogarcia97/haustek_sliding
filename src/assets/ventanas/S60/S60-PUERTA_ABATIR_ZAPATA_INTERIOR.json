@@ -1,0 +1,450 @@
+{
+  "sm": [
+    {
+      "uid": 1,
+      "type": "Frame",
+      "ps": {
+        "f": 40,
+        "fm": 48,
+        "sa": 95,
+        "usa": 95,
+        "dsa": 95,
+        "il": 95,
+        "sc": 60,
+        "sm": 43,
+        "kw": 200,
+        "b": 18.5,
+        "a": 24,
+        "am": 45,
+        "ahh": 240,
+        "ag": 120,
+        "ahw": 240,
+        "mf": 5,
+        "ms": 5,
+        "gg": 50
+      },
+      "polygon": {
+        "type": "singleTrack",
+        "spLine": {
+          "polyId": {
+            "idx": -1,
+            "pos": -1
+          },
+          "sts": 0,
+          "eds": 0,
+          "equalSplit": 0,
+          "ess": 0,
+          "ss": false,
+          "es": false,
+          "sFd": false,
+          "eFd": false,
+          "alignType": 0,
+          "reinforced": false
+        },
+        "polygon": [
+          [
+            {
+              "ps": {
+                "x": 1949.9270977619017,
+                "y": 657.4943500765476,
+                "name": "point"
+              },
+              "pe": {
+                "x": 1949.9270977619017,
+                "y": 2657.4943500765476,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 1949.9270977619017,
+                "y": 2657.4943500765476,
+                "name": "point"
+              },
+              "pe": {
+                "x": 2849.9270977619017,
+                "y": 2657.4943500765476,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 2849.9270977619017,
+                "y": 2657.4943500765476,
+                "name": "point"
+              },
+              "pe": {
+                "x": 2849.9270977619017,
+                "y": 657.4943500765476,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 2849.9270977619017,
+                "y": 657.4943500765476,
+                "name": "point"
+              },
+              "pe": {
+                "x": 1949.9270977619017,
+                "y": 657.4943500765476,
+                "name": "point"
+              },
+              "name": "segment"
+            }
+          ]
+        ],
+        "virtual": false,
+        "cpt": {
+          "x": 2999.9270977619017,
+          "y": 1607.4943500765476,
+          "name": "point"
+        },
+        "ep": [
+          "down"
+        ],
+        "ph": [
+          [
+            "down",
+            12
+          ]
+        ]
+      },
+      "fm": {
+        "ejw": [
+          null,
+          2,
+          2,
+          0
+        ],
+        "ew": [
+          40,
+          40,
+          40,
+          40
+        ],
+        "vs": [],
+        "ast": []
+      },
+      "mm": {
+        "sp": [],
+        "fls": {
+          "fls": []
+        },
+        "lpfs": [],
+        "dbs": {
+          "bars": []
+        },
+        "phs": []
+      },
+      "sm": [
+        {
+          "type": "Sash",
+          "polyId": {
+            "idx": -1,
+            "pos": -1
+          },
+          "enabled": true,
+          "offvec": {
+            "x": 0,
+            "y": 0,
+            "name": "vector"
+          },
+          "fm": {
+            "ejw": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "ew": [
+              95,
+              95,
+              95,
+              95
+            ],
+            "vs": [],
+            "ast": []
+          },
+          "mm": {
+            "sp": [],
+            "fls": {
+              "fls": [
+                {
+                  "type": "Glass",
+                  "pid": {
+                    "idx": -1,
+                    "pos": -1
+                  },
+                  "bd": {
+                    "type": "Bead",
+                    "fm": {
+                      "ejw": [
+                        0,
+                        0,
+                        0,
+                        0
+                      ],
+                      "ew": [
+                        18.5,
+                        18.5,
+                        18.5,
+                        18.5
+                      ],
+                      "vs": [],
+                      "ast": []
+                    }
+                  },
+                  "ser": {
+                    "text": "A1",
+                    "offvec": {
+                      "x": 0,
+                      "y": 0,
+                      "name": "vector"
+                    }
+                  },
+                  "spet": {
+                    "sp": "",
+                    "th": 0,
+                    "te": [],
+                    "tm": {
+                      "width": 0,
+                      "height": 0
+                    },
+                    "mw": 0
+                  },
+                  "wtf": true,
+                  "ws": false,
+                  "hs": []
+                }
+              ]
+            },
+            "lpfs": [],
+            "dbs": {
+              "bars": []
+            },
+            "phs": []
+          },
+          "hm": {
+            "openDirection": "right",
+            "openToward": "inside",
+            "pas": false,
+            "hingeType": "Hinge",
+            "hingeCount": 0,
+            "handle": {
+              "hidden": false,
+              "hardwareShape": "Handle2",
+              "autoOffset": false,
+              "percentOffset": 0.5,
+              "useProfileColor": false,
+              "dim": {
+                "name": "",
+                "from": {
+                  "x": 2262.4270977619017,
+                  "y": 1671.4943500765476,
+                  "name": "point"
+                },
+                "to": {
+                  "x": 2262.4270977619017,
+                  "y": 2571.4943500765476,
+                  "name": "point"
+                },
+                "hidden": true,
+                "offset": {
+                  "x": 670.7005905081287,
+                  "y": 0,
+                  "name": "vector"
+                },
+                "position": "right"
+              },
+              "dimToSash": {
+                "name": "",
+                "from": {
+                  "x": -600,
+                  "y": 64,
+                  "name": "point"
+                },
+                "to": {
+                  "x": -600,
+                  "y": 64,
+                  "name": "point"
+                },
+                "hidden": true,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "name": "vector"
+                },
+                "position": "right"
+              },
+              "lockDimToGround": false,
+              "lockDimToSash": false,
+              "edgeIndex": 0
+            },
+            "subHandle": {
+              "hidden": true,
+              "hardwareShape": "Handle2",
+              "autoOffset": true,
+              "percentOffset": 0,
+              "useProfileColor": false,
+              "dim": {
+                "name": "",
+                "from": {
+                  "x": 50,
+                  "y": -86,
+                  "name": "point"
+                },
+                "to": {
+                  "x": 50,
+                  "y": -86,
+                  "name": "point"
+                },
+                "hidden": true,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "name": "vector"
+                },
+                "position": "right"
+              },
+              "dimToSash": {
+                "name": "",
+                "from": {
+                  "x": 50,
+                  "y": -86,
+                  "name": "point"
+                },
+                "to": {
+                  "x": 50,
+                  "y": -86,
+                  "name": "point"
+                },
+                "hidden": true,
+                "offset": {
+                  "x": 0,
+                  "y": 0,
+                  "name": "vector"
+                },
+                "position": "right"
+              },
+              "lockDimToGround": false,
+              "lockDimToSash": false,
+              "edgeIndex": -1
+            },
+            "hinges": [],
+            "slide": "none",
+            "mlp": true,
+            "pue": false
+          },
+          "dm": {
+            "dims": []
+          },
+          "opened": false,
+          "isDoor": false,
+          "bd": {
+            "name": "",
+            "from": {
+              "x": -600,
+              "y": 64,
+              "name": "point"
+            },
+            "to": {
+              "x": -600,
+              "y": 64,
+              "name": "point"
+            },
+            "hidden": true,
+            "offset": {
+              "x": 0,
+              "y": 0,
+              "name": "vector"
+            }
+          },
+          "fw": -1,
+          "wtf": true,
+          "tf": false,
+          "od": 90
+        }
+      ],
+      "cm": {
+        "bn": "#F0540B",
+        "ben": "#F0540B",
+        "g": "rgba(0, 255, 255, 0.6)",
+        "hd": "#D4D1D9"
+      },
+      "tv": {
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "name": "vector"
+        },
+        "hidden": true
+      },
+      "dm": {
+        "dims": [
+          {
+            "type": "line",
+            "eidx": 0,
+            "midx": -1,
+            "name": "",
+            "ds": true,
+            "ov": {
+              "x": 0,
+              "y": 0,
+              "name": "vector"
+            },
+            "at": 0
+          },
+          {
+            "type": "line",
+            "eidx": 1,
+            "midx": -1,
+            "name": "",
+            "ds": true,
+            "ov": {
+              "x": 0,
+              "y": 18.857142857142662,
+              "name": "vector"
+            },
+            "at": 0
+          }
+        ]
+      },
+      "edm": [],
+      "lds": false,
+      "ser": {
+        "from": {
+          "x": 3449.9270977619017,
+          "y": 2721.4943500765476,
+          "name": "point"
+        },
+        "to": {
+          "x": 3449.9270977619017,
+          "y": 2721.4943500765476,
+          "name": "point"
+        },
+        "text": "S60-PUERTA_ABATIR_ZAPATA_INTERIOR",
+        "fontSize": 120,
+        "cr": "blue"
+      },
+      "tn": false,
+      "esr": [],
+      "ies": [],
+      "ot": "inward"
+    }
+  ],
+  "wall": [],
+  "cp": [],
+  "note": [],
+  "sbf": [],
+  "scale": 0,
+  "epi": [],
+  "wlc": "#b4f595",
+  "s": {
+    "cjs": 100,
+    "cs": 60
+  }
+}

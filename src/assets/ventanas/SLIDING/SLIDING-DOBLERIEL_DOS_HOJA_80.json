@@ -1,0 +1,695 @@
+{
+  "sm": [
+    {
+      "uid": 1,
+      "type": "Frame",
+      "ps": {
+        "f": 46,
+        "fm": 46,
+        "sa": 62,
+        "usa": 62,
+        "dsa": 62,
+        "il": 62,
+        "sc": 60,
+        "sm": 43,
+        "kw": 200,
+        "b": 18,
+        "a": 24,
+        "am": 45,
+        "ahh": 240,
+        "ag": 120,
+        "ahw": 240,
+        "mf": 5,
+        "ms": 5,
+        "gg": 50
+      },
+      "polygon": {
+        "type": "polygon",
+        "spLine": {
+          "polyId": {
+            "idx": -1,
+            "pos": -1
+          },
+          "sts": 0,
+          "eds": 0,
+          "equalSplit": 0,
+          "ess": 0,
+          "ss": false,
+          "es": false,
+          "sFd": false,
+          "eFd": false,
+          "alignType": 0,
+          "reinforced": false
+        },
+        "polygon": [
+          [
+            {
+              "ps": {
+                "x": 1700.9498910684506,
+                "y": 235.63021325269096,
+                "name": "point"
+              },
+              "pe": {
+                "x": 1700.9498910684506,
+                "y": 1735.630213252691,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 1700.9498910684506,
+                "y": 1735.630213252691,
+                "name": "point"
+              },
+              "pe": {
+                "x": 3700.9498910684506,
+                "y": 1735.630213252691,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 3700.9498910684506,
+                "y": 1735.630213252691,
+                "name": "point"
+              },
+              "pe": {
+                "x": 3700.9498910684506,
+                "y": 235.63021325269096,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 3700.9498910684506,
+                "y": 235.63021325269096,
+                "name": "point"
+              },
+              "pe": {
+                "x": 1700.9498910684506,
+                "y": 235.63021325269096,
+                "name": "point"
+              },
+              "name": "segment"
+            }
+          ]
+        ],
+        "virtual": false
+      },
+      "fm": {
+        "ejw": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "ew": [
+          46,
+          46,
+          46,
+          46
+        ],
+        "vs": [],
+        "ast": []
+      },
+      "mm": {
+        "sp": [],
+        "fls": {
+          "fls": []
+        },
+        "lpfs": [],
+        "dbs": {
+          "bars": []
+        },
+        "phs": []
+      },
+      "sm": [
+        {
+          "type": "Slide",
+          "polyId": {
+            "idx": -1,
+            "pos": -1
+          },
+          "enabled": true,
+          "offvec": {
+            "x": 0,
+            "y": 0,
+            "name": "vector"
+          },
+          "appliedOptionIndex": 15,
+          "emptyTrackAppended": "none",
+          "isDoor": false,
+          "ptd": false,
+          "eas": -1,
+          "sashes": [
+            {
+              "type": "Sash",
+              "polyId": {
+                "idx": -1,
+                "pos": -1
+              },
+              "enabled": true,
+              "offvec": {
+                "x": 0,
+                "y": 0,
+                "name": "vector"
+              },
+              "fm": {
+                "ejw": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "ew": [
+                  62,
+                  62,
+                  62,
+                  62
+                ],
+                "vs": [],
+                "ast": []
+              },
+              "mm": {
+                "sp": [],
+                "fls": {
+                  "fls": [
+                    {
+                      "type": "Glass",
+                      "pid": {
+                        "idx": -1,
+                        "pos": -1
+                      },
+                      "bd": {
+                        "type": "Bead",
+                        "fm": {
+                          "ejw": [
+                            0,
+                            0,
+                            0,
+                            0
+                          ],
+                          "ew": [
+                            18,
+                            18,
+                            18,
+                            18
+                          ],
+                          "vs": [],
+                          "ast": []
+                        }
+                      },
+                      "ser": {
+                        "text": "A1",
+                        "offvec": {
+                          "x": 0,
+                          "y": 0,
+                          "name": "vector"
+                        }
+                      },
+                      "spet": {
+                        "sp": "",
+                        "th": 0,
+                        "te": [],
+                        "tm": {
+                          "width": 0,
+                          "height": 0
+                        },
+                        "mw": 0
+                      },
+                      "wtf": true,
+                      "ws": false,
+                      "hs": []
+                    }
+                  ]
+                },
+                "lpfs": [],
+                "dbs": {
+                  "bars": []
+                },
+                "phs": []
+              },
+              "hm": {
+                "openDirection": "left",
+                "lock": [
+                  {
+                    "hidden": false,
+                    "hardwareShape": "Handle",
+                    "autoOffset": true,
+                    "percentOffset": 0.5,
+                    "useProfileColor": false,
+                    "dim": {
+                      "name": "",
+                      "from": {
+                        "x": 4798.949891068451,
+                        "y": 985.630213252691,
+                        "name": "point"
+                      },
+                      "to": {
+                        "x": 4798.949891068451,
+                        "y": 1985.630213252691,
+                        "name": "point"
+                      },
+                      "hidden": true,
+                      "offset": {
+                        "x": 0,
+                        "y": 0,
+                        "name": "vector"
+                      },
+                      "position": "right"
+                    },
+                    "dimToSash": {
+                      "name": "",
+                      "from": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "to": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "hidden": true,
+                      "offset": {
+                        "x": 0,
+                        "y": 0,
+                        "name": "vector"
+                      },
+                      "position": "right"
+                    },
+                    "lockDimToGround": false,
+                    "lockDimToSash": false,
+                    "edgeIndex": 3
+                  }
+                ],
+                "lock2s": [],
+                "handleForSlide": {
+                  "hidden": true,
+                  "hardwareShape": "HandleForSlide",
+                  "autoOffset": true,
+                  "percentOffset": 0,
+                  "useProfileColor": false,
+                  "dim": {
+                    "name": "",
+                    "from": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "to": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "hidden": false,
+                    "offset": {
+                      "x": 0,
+                      "y": 0,
+                      "name": "vector"
+                    },
+                    "position": "right"
+                  },
+                  "dimToSash": {
+                    "name": "",
+                    "from": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "to": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "hidden": true,
+                    "offset": {
+                      "x": 0,
+                      "y": 0,
+                      "name": "vector"
+                    },
+                    "position": "right"
+                  },
+                  "lockDimToGround": false,
+                  "lockDimToSash": false,
+                  "edgeIndex": 3
+                },
+                "pullupEnabled": false
+              },
+              "dm": {
+                "dims": []
+              },
+              "trackIndex": 0,
+              "columnIndex": 1,
+              "fixedWidth": -1,
+              "isFixed": false,
+              "attrs": {
+                "lockCode": "",
+                "lockName": ""
+              }
+            },
+            {
+              "type": "Sash",
+              "polyId": {
+                "idx": -1,
+                "pos": -1
+              },
+              "enabled": true,
+              "offvec": {
+                "x": 0,
+                "y": 0,
+                "name": "vector"
+              },
+              "fm": {
+                "ejw": [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "ew": [
+                  62,
+                  62,
+                  62,
+                  62
+                ],
+                "vs": [],
+                "ast": []
+              },
+              "mm": {
+                "sp": [],
+                "fls": {
+                  "fls": [
+                    {
+                      "type": "Glass",
+                      "pid": {
+                        "idx": -1,
+                        "pos": -1
+                      },
+                      "bd": {
+                        "type": "Bead",
+                        "fm": {
+                          "ejw": [
+                            0,
+                            0,
+                            0,
+                            0
+                          ],
+                          "ew": [
+                            18,
+                            18,
+                            18,
+                            18
+                          ],
+                          "vs": [],
+                          "ast": []
+                        }
+                      },
+                      "ser": {
+                        "text": "A2",
+                        "offvec": {
+                          "x": 0,
+                          "y": 0,
+                          "name": "vector"
+                        }
+                      },
+                      "spet": {
+                        "sp": "",
+                        "th": 0,
+                        "te": [],
+                        "tm": {
+                          "width": 0,
+                          "height": 0
+                        },
+                        "mw": 0
+                      },
+                      "wtf": true,
+                      "ws": false,
+                      "hs": []
+                    }
+                  ]
+                },
+                "lpfs": [],
+                "dbs": {
+                  "bars": []
+                },
+                "phs": []
+              },
+              "hm": {
+                "openDirection": "right",
+                "lock": [
+                  {
+                    "hidden": false,
+                    "hardwareShape": "Handle",
+                    "autoOffset": true,
+                    "percentOffset": 0.5,
+                    "useProfileColor": false,
+                    "dim": {
+                      "name": "",
+                      "from": {
+                        "x": 1896.4498910684506,
+                        "y": 985.630213252691,
+                        "name": "point"
+                      },
+                      "to": {
+                        "x": 1896.4498910684506,
+                        "y": 1785.630213252691,
+                        "name": "point"
+                      },
+                      "hidden": true,
+                      "offset": {
+                        "x": 0,
+                        "y": 0,
+                        "name": "vector"
+                      },
+                      "position": "right"
+                    },
+                    "dimToSash": {
+                      "name": "",
+                      "from": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "to": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "hidden": true,
+                      "offset": {
+                        "x": 0,
+                        "y": 0,
+                        "name": "vector"
+                      },
+                      "position": "right"
+                    },
+                    "lockDimToGround": false,
+                    "lockDimToSash": false,
+                    "edgeIndex": 1
+                  }
+                ],
+                "lock2s": [
+                  {
+                    "hidden": true,
+                    "hardwareShape": "Handle",
+                    "autoOffset": true,
+                    "percentOffset": 0,
+                    "useProfileColor": false,
+                    "dim": {
+                      "name": "",
+                      "from": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "to": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "hidden": false,
+                      "offset": {
+                        "x": 0,
+                        "y": 0,
+                        "name": "vector"
+                      },
+                      "position": "right"
+                    },
+                    "dimToSash": {
+                      "name": "",
+                      "from": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "to": {
+                        "x": -200,
+                        "y": 50,
+                        "name": "point"
+                      },
+                      "hidden": true,
+                      "offset": {
+                        "x": 0,
+                        "y": 0,
+                        "name": "vector"
+                      },
+                      "position": "right"
+                    },
+                    "lockDimToGround": false,
+                    "lockDimToSash": false,
+                    "edgeIndex": 3
+                  }
+                ],
+                "handleForSlide": {
+                  "hidden": true,
+                  "hardwareShape": "HandleForSlide",
+                  "autoOffset": true,
+                  "percentOffset": 0,
+                  "useProfileColor": false,
+                  "dim": {
+                    "name": "",
+                    "from": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "to": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "hidden": false,
+                    "offset": {
+                      "x": 0,
+                      "y": 0,
+                      "name": "vector"
+                    },
+                    "position": "right"
+                  },
+                  "dimToSash": {
+                    "name": "",
+                    "from": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "to": {
+                      "x": -200,
+                      "y": 50,
+                      "name": "point"
+                    },
+                    "hidden": true,
+                    "offset": {
+                      "x": 0,
+                      "y": 0,
+                      "name": "vector"
+                    },
+                    "position": "right"
+                  },
+                  "lockDimToGround": false,
+                  "lockDimToSash": false,
+                  "edgeIndex": 1
+                },
+                "pullupEnabled": false
+              },
+              "dm": {
+                "dims": []
+              },
+              "trackIndex": 1,
+              "columnIndex": 0,
+              "fixedWidth": -1,
+              "isFixed": false,
+              "attrs": {
+                "lockCode": "",
+                "lockName": ""
+              }
+            }
+          ],
+          "tf": false,
+          "tcs": [],
+          "gcs": []
+        }
+      ],
+      "cm": {
+        "bn": "#F0540B",
+        "ben": "#F0540B",
+        "g": "rgba(0, 255, 255, 0.6)",
+        "hd": "#D4D1D9"
+      },
+      "tv": {
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "name": "vector"
+        },
+        "hidden": true
+      },
+      "dm": {
+        "dims": [
+          {
+            "type": "line",
+            "eidx": 0,
+            "midx": -1,
+            "name": "",
+            "ds": true,
+            "ov": {
+              "x": 0,
+              "y": 0,
+              "name": "vector"
+            },
+            "at": 0
+          },
+          {
+            "type": "line",
+            "eidx": 1,
+            "midx": -1,
+            "name": "",
+            "ds": true,
+            "ov": {
+              "x": 0,
+              "y": 0,
+              "name": "vector"
+            },
+            "at": 0
+          }
+        ]
+      },
+      "edm": [],
+      "lds": false,
+      "ser": {
+        "from": {
+          "x": 3900.9498910684506,
+          "y": 1785.630213252691,
+          "name": "point"
+        },
+        "to": {
+          "x": 3900.9498910684506,
+          "y": 1785.630213252691,
+          "name": "point"
+        },
+        "text": "SLIDING-DOBLERIEL_DOS_HOJA_80",
+        "fontSize": 120,
+        "cr": "blue"
+      },
+      "tn": false,
+      "esr": [],
+      "ies": [],
+      "ot": "inward"
+    }
+  ],
+  "wall": [],
+  "cp": [],
+  "note": [],
+  "sbf": [],
+  "scale": 0,
+  "epi": [],
+  "wlc": "#b4f595",
+  "s": {
+    "cjs": 100,
+    "cs": 60
+  }
+}
