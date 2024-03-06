@@ -1,0 +1,256 @@
+{
+  "sm": [
+    {
+      "uid": 1,
+      "type": "Frame",
+      "ps": {
+        "f": 48,
+        "fm": 48,
+        "sa": 56.5,
+        "usa": 56.5,
+        "dsa": 56.5,
+        "il": 56.5,
+        "sc": 60,
+        "sm": 43,
+        "kw": 200,
+        "b": 18.5,
+        "a": 24,
+        "am": 45,
+        "ahh": 240,
+        "ag": 120,
+        "ahw": 240,
+        "mf": 5,
+        "ms": 5,
+        "gg": 50
+      },
+      "polygon": {
+        "type": "polygon",
+        "spLine": {
+          "polyId": {
+            "idx": -1,
+            "pos": -1
+          },
+          "sts": 0,
+          "eds": 0,
+          "equalSplit": 0,
+          "ess": 0,
+          "ss": false,
+          "es": false,
+          "sFd": false,
+          "eFd": false,
+          "alignType": 0,
+          "reinforced": false
+        },
+        "polygon": [
+          [
+            {
+              "ps": {
+                "x": 2390.435226361449,
+                "y": 1860.107895312386,
+                "name": "point"
+              },
+              "pe": {
+                "x": 2390.435226361449,
+                "y": 2360.107895312386,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 2390.435226361449,
+                "y": 2360.107895312386,
+                "name": "point"
+              },
+              "pe": {
+                "x": 2890.435226361449,
+                "y": 2360.107895312386,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 2890.435226361449,
+                "y": 2360.107895312386,
+                "name": "point"
+              },
+              "pe": {
+                "x": 2890.435226361449,
+                "y": 1860.107895312386,
+                "name": "point"
+              },
+              "name": "segment"
+            },
+            {
+              "ps": {
+                "x": 2890.435226361449,
+                "y": 1860.107895312386,
+                "name": "point"
+              },
+              "pe": {
+                "x": 2390.435226361449,
+                "y": 1860.107895312386,
+                "name": "point"
+              },
+              "name": "segment"
+            }
+          ]
+        ],
+        "virtual": false
+      },
+      "fm": {
+        "ejw": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "ew": [
+          48,
+          48,
+          48,
+          48
+        ],
+        "vs": [],
+        "ast": []
+      },
+      "mm": {
+        "sp": [],
+        "fls": {
+          "fls": [
+            {
+              "type": "Glass",
+              "pid": {
+                "idx": -1,
+                "pos": -1
+              },
+              "bd": {
+                "type": "Bead",
+                "fm": {
+                  "ejw": [
+                    0,
+                    0,
+                    0,
+                    0
+                  ],
+                  "ew": [
+                    18.5,
+                    18.5,
+                    18.5,
+                    18.5
+                  ],
+                  "vs": [],
+                  "ast": []
+                }
+              },
+              "ser": {
+                "text": "F1",
+                "offvec": {
+                  "x": 0,
+                  "y": 0,
+                  "name": "vector"
+                }
+              },
+              "spet": {
+                "sp": "",
+                "th": 0,
+                "te": [],
+                "tm": {
+                  "width": 0,
+                  "height": 0
+                },
+                "mw": 0
+              },
+              "wtf": true,
+              "ws": false,
+              "hs": []
+            }
+          ]
+        },
+        "lpfs": [],
+        "dbs": {
+          "bars": []
+        },
+        "phs": []
+      },
+      "sm": [],
+      "cm": {
+        "bn": "#F0540B",
+        "ben": "#F0540B",
+        "g": "rgba(0, 255, 255, 0.6)",
+        "hd": "#D4D1D9"
+      },
+      "tv": {
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "name": "vector"
+        },
+        "hidden": true
+      },
+      "dm": {
+        "dims": [
+          {
+            "type": "line",
+            "eidx": 0,
+            "midx": -1,
+            "name": "",
+            "ds": true,
+            "ov": {
+              "x": 0,
+              "y": 0,
+              "name": "vector"
+            },
+            "at": 0
+          },
+          {
+            "type": "line",
+            "eidx": 1,
+            "midx": -1,
+            "name": "",
+            "ds": true,
+            "ov": {
+              "x": 0,
+              "y": 0,
+              "name": "vector"
+            },
+            "at": 0
+          }
+        ]
+      },
+      "edm": [],
+      "lds": false,
+      "ser": {
+        "from": {
+          "x": 3840.435226361449,
+          "y": 2970.607895312386,
+          "name": "point"
+        },
+        "to": {
+          "x": 3840.435226361449,
+          "y": 2970.607895312386,
+          "name": "point"
+        },
+        "text": "S60-VENTANA_FIJA",
+        "fontSize": 120,
+        "cr": "blue"
+      },
+      "tn": false,
+      "esr": [],
+      "ies": [],
+      "ot": "inward"
+    }
+  ],
+  "wall": [],
+  "cp": [],
+  "note": [],
+  "sbf": [],
+  "scale": 0,
+  "epi": [],
+  "wlc": "#b4f595",
+  "s": {
+    "cjs": 100,
+    "cs": 60
+  }
+}
